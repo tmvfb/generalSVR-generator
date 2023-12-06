@@ -1,0 +1,7 @@
+torch==1.12.1+cu113
+transformers
+pandas
+numpy
+datasets
+evaluate
+accelerate
